@@ -8,6 +8,7 @@ body {
 
 section {
   margin-bottom: 3%;
+  margin-top: 3%;
 }
 span {
   color: #407bff;
@@ -126,7 +127,6 @@ small {
 
 .Pricing-Package-Section {
   background-color: #151515;
-  
 }
 
 .Pricing-Package-Section .card {
@@ -139,7 +139,7 @@ small {
   color: white;
 }
 
-.Get-In-Touch-Section .card{
+.Get-In-Touch-Section .card {
   background-color: transparent;
   color: white;
 }
@@ -149,9 +149,7 @@ small {
 }
 
 .Clients-Section .card img {
-  height: 256px ;
+  height: 256px;
   width: 256px;
   margin: 0% auto;
 }
-
-
