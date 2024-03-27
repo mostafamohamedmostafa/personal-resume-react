@@ -19,7 +19,6 @@ function App() {
       <Navigation></Navigation>
       <Routes>
       <Route path="personal-resume-react" element={<Mainpage />} />
-        <Route path="Home" element={<Mainpage />} />
         <Route path="AboutPage" element={<AboutPage />} />
         <Route path="ServicePage" element={<ServicesPage />} />
         <Route path="ProjectsPage" element={<ProjectsPage />} />
