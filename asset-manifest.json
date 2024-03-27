@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-resume-react/static/css/main.4b1044a6.css",
-    "main.js": "/personal-resume-react/static/js/main.5ff549d2.js",
+    "main.js": "/personal-resume-react/static/js/main.9289a534.js",
     "static/js/453.d5de8107.chunk.js": "/personal-resume-react/static/js/453.d5de8107.chunk.js",
     "static/media/Project4.png": "/personal-resume-react/static/media/Project4.1d9c985eb6ad711fc0b4.png",
     "static/media/WorkExperience.png": "/personal-resume-react/static/media/WorkExperience.32add2ce8cf38271b499.png",
@@ -34,11 +34,11 @@
     "static/media/Skill6.png": "/personal-resume-react/static/media/Skill6.c8445252a7df80559af5.png",
     "index.html": "/personal-resume-react/index.html",
     "main.4b1044a6.css.map": "/personal-resume-react/static/css/main.4b1044a6.css.map",
-    "main.5ff549d2.js.map": "/personal-resume-react/static/js/main.5ff549d2.js.map",
+    "main.9289a534.js.map": "/personal-resume-react/static/js/main.9289a534.js.map",
     "453.d5de8107.chunk.js.map": "/personal-resume-react/static/js/453.d5de8107.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b1044a6.css",
-    "static/js/main.5ff549d2.js"
+    "static/js/main.9289a534.js"
   ]
 }
