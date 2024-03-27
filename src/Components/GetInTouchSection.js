@@ -4,7 +4,7 @@ import { BsPhoneVibrate } from "react-icons/bs";
 import { BsEnvelopeOpenHeart } from "react-icons/bs";
 export const GetInTouchSection = () => {
   return (
-    <section className="Get-In-Touch-Section">
+    <section className="Get-In-Touch-Section container-fluid">
       <div className="row  row-cols  ">
         <div className="col-lg-6 " data-aos="zoom-in-up">
           <div className="card h-100 ">

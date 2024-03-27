@@ -2,7 +2,7 @@ import React from "react";
 import { SkillsData } from "./WebsiteData";
 export const SkillsComponent = () => {
   return (
-    <section className="SkillsComponent">
+    <section className="SkillsComponent container-fluid">
       <div className="row  row-cols  ">
         {SkillsData.map((SkillsDataImported, index) => {
           return (
