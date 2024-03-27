@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-resume-react/static/css/main.385fd191.css",
-    "main.js": "/personal-resume-react/static/js/main.c6327120.js",
+    "main.css": "/personal-resume-react/static/css/main.10697c08.css",
+    "main.js": "/personal-resume-react/static/js/main.aa67488d.js",
     "static/js/453.d5de8107.chunk.js": "/personal-resume-react/static/js/453.d5de8107.chunk.js",
     "static/media/Project4.png": "/personal-resume-react/static/media/Project4.1d9c985eb6ad711fc0b4.png",
     "static/media/WorkExperience.png": "/personal-resume-react/static/media/WorkExperience.32add2ce8cf38271b499.png",
@@ -33,12 +33,12 @@
     "static/media/Skill5.png": "/personal-resume-react/static/media/Skill5.f767f9cb33a389ff666d.png",
     "static/media/Skill6.png": "/personal-resume-react/static/media/Skill6.c8445252a7df80559af5.png",
     "index.html": "/personal-resume-react/index.html",
-    "main.385fd191.css.map": "/personal-resume-react/static/css/main.385fd191.css.map",
-    "main.c6327120.js.map": "/personal-resume-react/static/js/main.c6327120.js.map",
+    "main.10697c08.css.map": "/personal-resume-react/static/css/main.10697c08.css.map",
+    "main.aa67488d.js.map": "/personal-resume-react/static/js/main.aa67488d.js.map",
     "453.d5de8107.chunk.js.map": "/personal-resume-react/static/js/453.d5de8107.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.385fd191.css",
-    "static/js/main.c6327120.js"
+    "static/css/main.10697c08.css",
+    "static/js/main.aa67488d.js"
   ]
 }
