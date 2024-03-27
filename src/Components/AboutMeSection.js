@@ -30,56 +30,44 @@ export const AboutMeSection = () => {
               <div className="row  row-cols  ">
                 <div className="col-6  " data-aos="zoom-in-up">
                   <div className="card h-100 ">
-                    <div className="card-body">
-                      <h3>
-                        <span>
-                          {" "}
-                          <BsCheckCircle />{" "}
-                        </span>{" "}
-                        Services{" "}
+                  <h3>
+                        <span><BsCheckCircle /></span>Services
                       </h3>
+                    <div className="card-body">
+                   
                     </div>
                   </div>
                 </div>
 
                 <div className="col-6  " data-aos="zoom-in-up">
                   <div className="card h-100 ">
-                    <div className="card-body">
-                      <h3>
-                        <span>
-                          {" "}
-                          <BsCheckCircle />{" "}
-                        </span>
-                        Services{" "}
+                  <h3>
+                        <span><BsCheckCircle /></span>Services
                       </h3>
+                    <div className="card-body">
+           
                     </div>
                   </div>
                 </div>
 
                 <div className="col-6  " data-aos="zoom-in-up">
                   <div className="card h-100 ">
-                    <div className="card-body">
-                      <h3>
-                        <span>
-                          {" "}
-                          <BsCheckCircle />{" "}
-                        </span>
-                        Services{" "}
+                  <h3>
+                        <span><BsCheckCircle /></span>Services
                       </h3>
+                    <div className="card-body">
+                
                     </div>
                   </div>
                 </div>
 
                 <div className="col-6  " data-aos="zoom-in-up">
                   <div className="card h-100 ">
-                    <div className="card-body">
-                      <h3>
-                        <span>
-                          {" "}
-                          <BsCheckCircle />{" "}
-                        </span>
-                        Services{" "}
+                  <h3>
+                        <span><BsCheckCircle /></span>Services
                       </h3>
+                    <div className="card-body">
+             
                     </div>
                   </div>
                 </div>
