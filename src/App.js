@@ -15,7 +15,7 @@ function App() {
   }, []);
 
   return (
-    <div className="App">
+    <div className="App container-fluid">
       <Navigation></Navigation>
       <Routes>
       <Route path="personal-resume-react" element={<Mainpage />} />

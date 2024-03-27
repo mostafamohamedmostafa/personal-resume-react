@@ -53,7 +53,7 @@ export const GetInTouchSection = () => {
             <div className="card-body">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d218359.75267862238!2d29.790070717964728!3d31.224299392628375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14f5c49126710fd3%3A0xb4e0cda629ee6bb9!2sAlexandria%2C%20Alexandria%20Governorate!5e0!3m2!1sen!2seg!4v1711513770538!5m2!1sen!2seg"
-                width="600"
+                width="300"
                 height="350"
                 allowfullscreen=""
                 loading="lazy"
