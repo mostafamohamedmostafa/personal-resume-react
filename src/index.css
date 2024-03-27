@@ -1,13 +1,157 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black !important;
+  color: white !important;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+section {
+  margin-bottom: 3%;
 }
+span {
+  color: #407bff;
+}
+
+.Hero-Left-Card .card,
+.Hero-Middle-Card .card {
+  background-color: transparent !important;
+  color: white;
+}
+
+.Hero-Left-Card .card {
+  margin-top: 12%;
+}
+
+.Hero-Right-Card .card {
+  background-color: #151515;
+  color: lightgray;
+  margin-top: 40%;
+  height: 50vh;
+}
+
+.About-Me-Card .card {
+  background-color: transparent;
+  color: white;
+}
+
+.About-Me-Card .Left-Card {
+  margin: 4%;
+}
+.About-Me-Contact-Card {
+  background-color: #151515;
+  border-radius: 24px;
+  border: none;
+}
+
+.About-Me-Contact-Card .card {
+  border: none;
+}
+.My-Resume-Section {
+  font-size: x-large;
+}
+
+.My-Resume-Section h1 {
+  font-size: 3rem;
+}
+.Left-My-Resume-Card .card,
+.Right-My-Resume-Card .card {
+  background-color: transparent;
+  color: white;
+}
+
+.Right-My-Resume-Card .Inner-Right-My-Resume-Card {
+  background-color: #151515;
+  border: none;
+}
+
+.Inner-Right-My-Resume-Card .card {
+  border: none;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.Popular-Service-Card .card {
+  background-color: #151515;
+  margin-bottom: 5%;
+  color: white;
+}
+
+small {
+  color: white;
+}
+
+.My-Skills-Card .card {
+  background-color: transparent;
+  color: white;
+}
+
+.My-Skills-Card-Skills .card {
+  background-color: #151515;
+  border: none;
+}
+
+.My-Skills-Card-Skills .card:hover {
+  border: 1px solid #407bff;
+
+  transition: ease-in-out 2s;
+}
+.My-Skills-Card-Skills .card img {
+  height: 128px;
+  width: 128px;
+  margin: 0 auto;
+}
+
+.ProjectsComponent .card {
+  background-color: #151515;
+  color: white;
+  height: fit-content;
+}
+
+.ProjectsComponent .Project-Card-Component {
+  margin-top: 25%;
+}
+
+.Clients-Testimonials-Section .card {
+  background-color: transparent;
+  color: white;
+}
+
+.Clients-Testimonials-Section-Card img {
+  width: 256px;
+  height: 256px;
+  border-radius: 24%;
+  margin: 0% auto;
+}
+
+.Pricing-Package-Section {
+  background-color: #151515;
+  height: 35rem;
+}
+
+.Pricing-Package-Section .card {
+  background-color: black;
+  color: white;
+  margin-bottom: 3%;
+}
+.Pricing-Package-Section .card ul li {
+  background-color: black;
+  color: white;
+}
+
+.Get-In-Touch-Section .card{
+  background-color: transparent;
+  color: white;
+}
+
+.Clients-Section .card {
+  background: #151515;
+}
+
+.Clients-Section .card img {
+  height: 256px ;
+  width: 256px;
+  margin: 0% auto;
+}
+
+
