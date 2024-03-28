@@ -4,7 +4,7 @@ import { ProjectsComponent } from "./ProjectsComponent";
 export const ProjectsSection = () => {
   return (
     <section className="Projects-Section container-fluid">
-      <h6 className="text-muted">Latest Works</h6>
+      <h5 className="">Latest Works</h5>
 
       <h1>
         {" "}

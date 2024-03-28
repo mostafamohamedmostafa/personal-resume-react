@@ -17,7 +17,7 @@ export const MyResume = () => {
         <div className="col-lg-9 Right-My-Resume-Card  " data-aos="zoom-in-up">
           <div className="card h-100  ">
             <div className="card-body">
-              <h5 className="text-muted">My Resume</h5>
+              <h5 className=" ">My Resume</h5>
               <h1>
                 Real <span>Problem Solutions </span> Experience
               </h1>
@@ -37,7 +37,7 @@ export const MyResume = () => {
                             <h3 className="card-title">2021 - Present</h3>
                             <h5 className="card-text"></h5>
                             <p className="card-text">
-                              <small className="text-body-secondary">
+                              <small className="text-body-primary">
                                 Google
                               </small>
                             </p>
@@ -60,7 +60,7 @@ export const MyResume = () => {
                             <h3 className="card-title">2021 - Present</h3>
                             <h5 className="card-text"></h5>
                             <p className="card-text">
-                              <small className="text-body-secondary">
+                              <small className="text-body-primary">
                                 Google
                               </small>
                             </p>
@@ -83,7 +83,7 @@ export const MyResume = () => {
                             <h3 className="card-title">2021 - Present</h3>
                             <h5 className="card-text"></h5>
                             <p className="card-text">
-                              <small className="text-body-secondary">
+                              <small className="text-body-primary">
                                 Google
                               </small>
                             </p>
@@ -106,7 +106,7 @@ export const MyResume = () => {
                             <h3 className="card-title">2021 - Present</h3>
                             <h5 className="card-text"></h5>
                             <p className="card-text">
-                              <small className="text-body-secondary">
+                              <small className="text-body-primary">
                                 Google
                               </small>
                             </p>

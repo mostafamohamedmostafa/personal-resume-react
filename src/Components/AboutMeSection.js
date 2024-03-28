@@ -11,7 +11,7 @@ export const AboutMeSection = () => {
           <div className="card h-100 Left-Card ">
             <div className="card-body">
               <div>
-                <h5 className="text-muted">About Me</h5>
+                <h5 className=" ">About Me</h5>
                 <h2>
                   Professional <span> Problem Solutions </span>For Digital
                   Products

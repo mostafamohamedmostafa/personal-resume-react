@@ -10,7 +10,7 @@ export const ClientsTestimonialsSection = () => {
         <div className="col-lg-4 " data-aos="zoom-in-up">
           <div className="card h-100 ">
             <div className="card-body">
-              <h5 className="text-muted">Clients Testimonials</h5>
+              <h5 className=" ">Clients Testimonials</h5>
               <h1>
                 I’ve 12345+ Clients <span> Problem Solutions </span>
               </h1>

@@ -8,7 +8,7 @@ export const MySkillsSection = () => {
         <div className="col-md-4  " data-aos="zoom-in-up">
           <div className="card h-100 ">
             <div className="card-body">
-              <h6 className="text-muted">My Skills</h6>
+              <h5 className=" ">My Skills</h5>
 
               <h1>
                 Let’s Explore Popular <span> Skills & Experience</span>
