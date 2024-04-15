@@ -3,7 +3,7 @@ import { Link, Route, Routes } from "react-router-dom";
 
 export const Navigation = () => {
   return (
-    <section className="Navigation ">
+    <section className="Navigation  mt-0">
       <nav
         className="navbar navbar-expand-lg bg-body-tertiary bg-dark border-bottom border-body"
         data-bs-theme="dark"

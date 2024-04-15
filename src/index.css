@@ -14,7 +14,7 @@ span {
   color: #407bff;
 }
 h5 {
-  color:  lightgrey !important;
+  color: lightgrey !important;
 }
 
 .Hero-Left-Card .card,
@@ -116,6 +116,7 @@ small {
   margin-top: 25%;
 }
 
+
 .Clients-Testimonials-Section .card {
   background-color: transparent;
   color: white;
@@ -130,12 +131,14 @@ small {
 
 .Pricing-Package-Section {
   background-color: #363636;
+  margin-bottom: 9%;
+  height: 91vh;
 }
 
 .Pricing-Package-Section .card {
   background-color: black;
   color: white;
-  margin-bottom: 9%;
+
 }
 .Pricing-Package-Section .card ul li {
   background-color: black;
